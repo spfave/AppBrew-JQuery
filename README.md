@@ -3,7 +3,7 @@
 Course: The Complete Web Development Bootcamp
 Course url: https://www.appbrewery.co/courses
 
-## Section 13 - JQuery
+## Section 14 - JQuery
 
 - How to incorporate JQuery into websites
 - How minification works
